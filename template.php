@@ -1,5 +1,17 @@
 <?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
 
+/**
+ * This CI library allows you to load a view 
+ * together with its header and footer in one
+ * call.
+ * 
+ * @author Nelson Ameyo <nelson@blackpay.co.ke>
+ * @version 1.0
+ * @license GNU General Public License v2.0
+ * @link https://github.com/DeveintLabs/CI-Template-Loader
+ * 
+ * */
+
 class Template
 {
   protected 	$ci;
