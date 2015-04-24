@@ -1,5 +1,5 @@
 # CI-Template-Loader
-This is a CodeIgniter library that will streamline loading of headers, menus, sliders and footers on main view files.
+This CI library allows you to load a view together with its header and footer in one call.
 
 # How to install
 Simply download this file and copy it to your libraries folder here:-
